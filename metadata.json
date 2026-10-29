@@ -1,0 +1,6 @@
+{
+  "name": "Agentforce Ticket Priority & Auto-Assignment",
+  "description": "Salesforce Agentforce-powered customer support ticket priority prediction, intelligent agent auto-assignment, autonomous solution synthesis, and Service Cloud analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
